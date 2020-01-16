@@ -9,8 +9,10 @@
 
 int main(void) {
 	
-	printf("Hello World!");
+	printf("Richard Sheibal");
 	printf("My major is Computer Science!"); //added major for assignment
-	
+    printf("My name is Gabin Kundwa");
+    printf("I am majoring in Integrated Science");
 	return 0;
+    /* collaborator1: Gabin Kundwa*/
 }
